@@ -1,6 +1,6 @@
 ## Formação Cientista de Dados - DSA (https://www.datascienceacademy.com.br)
 
-# Prevendo o Nivel de Satisfacao dos Clientes do Santander
+# Prevendo o Nível de Satisfação dos Clientes do Santander
 
 Este notebook contém as seguintes fases para a análise dos modelos de Machine Learning:
 
